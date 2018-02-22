@@ -1,7 +1,7 @@
 import qbs
 
 Project {
-	//name: "Musroom Harvester Project";
+	name: "HD FPV RC Car over internet";
 
 	references: [
 		"server/server.qbs",
